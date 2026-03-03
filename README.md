@@ -9,7 +9,7 @@
 - 🔗 [okkproxy.com](https://okkproxy.com)
 
 🌟 **NIUproxxy** — 高并发采集加速器
-- 🔥 针对Crawlee并发架构优化，支持数千并发连接不掉线
+- 🔥 针对mitmproxy架构优化，支持数千并发连接不掉线
 - 🚀 智能会话保持，同一任务绑定同一IP，数据一致性有保障
 - 🌐 全球机房节点覆盖，就近接入延迟低至50ms
 - 💰 新用户充值加赠20%流量
@@ -17,7 +17,7 @@
 
 🌟 **COLAproxxy** — 性价比之选
 - 🔥 按流量计费，不限并发数，小团队也能用得起住宅IP
-- 🚀 兼容所有HTTP/SOCKS5代理协议，Crawlee零配置接入
+- 🚀 兼容所有HTTP/SOCKS5代理协议，mitmproxy零配置接入
 - 🌐 覆盖190+国家，城市级定位精准采集
 - 💰 新用户充值加赠20%流量
 - 🔗 [colaproxy.com](https://colaproxy.com)
@@ -32,7 +32,7 @@
 - 🔗 [okkproxy.com](https://okkproxy.com)
 
 🌟 **NIUproxxy** — High-Concurrency Scraping Accelerator
-- 🔥 Optimized for Crawlee architecture, supports thousands of concurrent connections
+- 🔥 Optimized for mitmproxy architecture, supports thousands of concurrent connections
 - 🚀 Smart session persistence, bind same IP to same task
 - 🌐 Global data center nodes, latency as low as 50ms
 - 💰 20% bonus for new users
@@ -40,7 +40,7 @@
 
 🌟 **COLAproxxy** — Best Value Choice
 - 🔥 Pay-per-traffic, unlimited concurrency, affordable for small teams
-- 🚀 Compatible with all HTTP/SOCKS5 protocols, zero-config for Crawlee
+- 🚀 Compatible with all HTTP/SOCKS5 protocols, zero-config for mitmproxy
 - 🌐 190+ countries, city-level targeting
 - 💰 20% bonus for new users
 - 🔗 [colaproxy.com](https://colaproxy.com)
